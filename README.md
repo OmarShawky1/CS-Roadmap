@@ -7,7 +7,7 @@
 
 # Summary
 
-This repository organizes all taken courses along with my solutions to assignments. It's all thanks to [OSSU](https://github.com/ossu/computer-science) incredible help, curriculum & courses order.
+This repository organizes all taken courses along with my solutions to assignments & any side project that I have done. It's all thanks to [OSSU](https://github.com/ossu/computer-science) incredible help, curriculum & courses order.
 
 
 # Curriculum
