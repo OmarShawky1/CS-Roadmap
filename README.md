@@ -27,6 +27,7 @@ This repository organizes all taken courses along with my solutions to assignmen
 **Topics covered**:
 `simple programs`
 `simple data structures`
+
 [Python for Everybody](https://www.py4e.com/lessons)
 
 ### Introduction to Computer Science
@@ -35,7 +36,7 @@ This repository organizes all taken courses along with my solutions to assignmen
 `computation`
 `imperative programming`
 `basic data structures and algorithms`
-`and more`
+
 [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 
