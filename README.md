@@ -74,7 +74,7 @@ This repository organizes all taken courses along with my solutions to assignmen
 `NP-completeness`
 `and more`
 
-1. [Princeton Algorithms Course Part 1](https://www.coursera.org/learn/algorithms-part1) & [Princeton Algorithms Course Part 2](https://www.coursera.org/learn/algorithms-part2) and [my solution](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS)
+1. [Princeton Algorithms Course Part 1](https://www.coursera.org/learn/algorithms-part1) & [Princeton Algorithms Course Part 2](https://www.coursera.org/learn/algorithms-part2) and [my solution](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS).
 
 
 # Side-Projects
