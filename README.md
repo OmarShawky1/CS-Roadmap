@@ -17,7 +17,7 @@ This repository organizes all taken courses along with my solutions to assignmen
   - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
-  - [Core systems](#core-systems)
+  - [Core Theory](#core-theory)
 
 
 ## Intro CS
