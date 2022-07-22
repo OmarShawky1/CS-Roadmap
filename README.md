@@ -12,6 +12,7 @@ This repository organizes all taken courses along with my solutions to assignmen
 
 # Curriculum
 
+- [CS Essential Prerequiste tools & Knowledge](<#CS Essential Prerequiste Tools & Knowledge>)
 - [Intro CS](#intro-cs)
   - [Introduction to Programming](#introduction-to-programming)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -19,6 +20,14 @@ This repository organizes all taken courses along with my solutions to assignmen
   - [Core programming](#core-programming)
   - [Core Theory](#core-theory)
 
+
+## CS Essential Prerequiste Tools & Knowledge
+
+1. [Computer Science concepts](https://www.youtube.com/playlist?list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD).
+2. Learning how to Google.
+3. Learning Git.
+4. Learning Basic Linux.
+5. Learning how to take notes.
 
 ## Intro CS
 
