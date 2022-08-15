@@ -88,5 +88,5 @@ This repository organizes all taken courses along with my solutions to assignmen
 
 # Side-Projects
 
-1. Multiplayer [Chess](https://github.com/OmarShawky1/Chess) over local connection.
+1. [GUI Multiplayer Chess Over Local Connection](https://github.com/OmarShawky1/Chess).
 
