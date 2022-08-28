@@ -54,16 +54,18 @@ This repository organizes all taken courses along with my solutions to assignmen
 ### Core programming
 **Topics covered**:
 `functional programming`
+`static typing`
+`dynamic typing`
+`ML-family languages (via Standard ML)`
+`Lisp-family languages (via Racket)`
+`Object Oriented Programming`
+`Ruby`
+TODO: Add all topics studied to the section.
 `design for testing`
 `program requirements`
 `common design patterns`
 `unit testing`
 `object-oriented design`
-`static typing`
-`dynamic typing`
-`ML-family languages (via Standard ML)`
-`Lisp-family languages (via Racket)`
-`Ruby`
 
 1. [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) and [my solution](https://github.com/OmarShawky1/Course-How-To-Code-Data).
 2. [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages), [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) & [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) and [my solution](https://github.com/OmarShawky1/Course-Programming-Languages).
@@ -71,12 +73,13 @@ This repository organizes all taken courses along with my solutions to assignmen
 ### Core theory
 
 **Topics covered**:
-`divide and conquer`
-`sorting and searching`
+`sorting and searching` (TODO: Describe specifically)
 `randomized algorithms`
+`data structures` (TODO: Describe specifically)
+TODO: Add all topics studied (From Princeton) to the section.
+`divide and conquer`
 `graph search`
 `shortest paths`
-`data structures`
 `greedy algorithms`
 `minimum spanning trees`
 `dynamic programming`
@@ -89,4 +92,5 @@ This repository organizes all taken courses along with my solutions to assignmen
 # Side-Projects
 
 1. [GUI Multiplayer Chess Over Local Connection](https://github.com/OmarShawky1/Chess).
+   a. **Topics Covered**: `Java 8` `OOP` `JavaFx`
 
