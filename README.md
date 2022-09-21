@@ -73,9 +73,9 @@ TODO: Add all topics studied to the section.
 ### Core theory
 
 **Topics covered**:
-`sorting and searching` (TODO: Describe specifically)
-`randomized algorithms`
-`data structures` (TODO: Describe specifically)
+`sorting and searching`: (Elementary sort (Shell sort, Insertion sort, Selection sort), Mergesort, Quicksort, Binary Search, Quick-Select, 3-Way partitioning, A\* Search, Heapsort)
+`randomized algorithms`: (Shuffle sort)
+`data structures`: (Array, ArrayList, LinkedList, Trees, Priority Queues, Binary Heap)
 TODO: Add all topics studied (From Princeton) to the section.
 `divide and conquer`
 `graph search`
@@ -92,5 +92,5 @@ TODO: Add all topics studied (From Princeton) to the section.
 # Side-Projects
 
 1. [GUI Multiplayer Chess Over Local Connection](https://github.com/OmarShawky1/Chess).
-   a. **Topics Covered**: `Java 8` `OOP` `JavaFx`
+   a. **Topics Covered**: `Java 8` `OOP` `JavaFx`, `Threading`
 
