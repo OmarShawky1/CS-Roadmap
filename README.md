@@ -50,6 +50,7 @@ This repository organizes all taken courses along with my solutions to assignmen
 ### Core programming
 
 **Topics covered**:
+`programming concepts`
 `functional programming`
 `static typing`
 `dynamic typing`
@@ -66,8 +67,8 @@ This repository organizes all taken courses along with my solutions to assignmen
 
 |Course|Topics Covered|Course Portfolio|
 |:-:|:-:|:-:|
-|[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)|`basic function structure`: (function signature, first order function, high order function, function consumer) <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, Backtracking search, Generative Recursion)  <br>`dynamic typing` |[My Solution](https://github.com/OmarShawky1/Course-How-To-Code-Data)|
-|[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages), [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) & [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)|`functional programming`: (Tail Recursion) <br>`static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Object Oriented Programming` `Ruby`| [My Solution](https://github.com/OmarShawky1/Course-Programming-Languages)|
+|[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)|`basic function structure`: (function signature, first order function) <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, High order function (function consumer or passing function as argument), Map, Filter, Fold, Lexical Scoping, Backtracking search, Generative Recursion)  <br>`dynamic typing` |[My Solution](https://github.com/OmarShawky1/Course-How-To-Code-Data)|
+|[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages), [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) & [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)|`programming concepts`: (Mutation, references/pointers, Basic collections {pairs, tuples, Records), Polymorphism (Functional, OOP, Bounded), Type Inference,  Weak Typing, Strong Typing, Duck Typing, Overriding, Dynamic Dispatch, Double Dispatch, Interpreter) <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, shadowing, case expression (AKA pattern matching), High order function (function consumer or passing function as argument), Map, Filter, Fold, Lexical & Dynamic scope, Stream, Lazy & Eager evaluation, Memoization, Tokenization, Subtyping (Functional & OOP), Generics) <br>`static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Object Oriented Programming` <br>`Ruby`: (classes, object state, Arrays, Blocks, Hashes & Ranges, Subclassing (Inheritance in Java), Mixins)| [My Solution](https://github.com/OmarShawky1/Course-Programming-Languages)|
 
 ### Core theory
 
