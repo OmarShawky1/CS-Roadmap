@@ -66,7 +66,6 @@ This repository organizes all taken courses along with my solutions to assignmen
 
 |Course|Topics Covered|Course Portfolio|
 |:-:|:-:|:-:|
-
 |[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)|`basic function structure`: (function signature, first order function, high order function, function consumer) <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, Backtracking search, Generative Recursion)  <br>`dynamic typing` |[My Solution](https://github.com/OmarShawky1/Course-How-To-Code-Data)|
 |[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages), [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) & [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)|`functional programming`: (Tail Recursion) <br>`static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Object Oriented Programming` `Ruby`| [My Solution](https://github.com/OmarShawky1/Course-Programming-Languages)|
 
