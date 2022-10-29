@@ -76,10 +76,10 @@ This repository organizes all taken courses along with my solutions to assignmen
 `sorting and searching`
 `randomized algorithms`
 `data structures`
-<br>TODO: Add all topics studied (From Princeton) to the section.
-`divide and conquer`
 `graph search`
 `shortest paths`
+<br>TODO: Add all topics studied (From Princeton) to the section.
+`divide and conquer`
 `greedy algorithms`
 `minimum spanning trees`
 `dynamic programming`
@@ -88,7 +88,7 @@ This repository organizes all taken courses along with my solutions to assignmen
 
 |Course|Topics Covered|Course Portfolio|
 |:-:|:-|:-:|
-|[Princeton Algorithms Course Part 1](https://www.coursera.org/learn/algorithms-part1) & [Princeton Algorithms Course Part 2](https://www.coursera.org/learn/algorithms-part2)|`sorting and searching`: [Elementary sort (Shell sort, Insertion sort, Selection sort), Mergesort, Quicksort, Binary Search, Quick-Select, 3-Way partitioning, Heapsort, A\* Search, Multi-Dimensional Search: (KdTree), Hash-Map] <br>`randomized algorithms`: [Shuffle sort] <br>`data structures`: [Linear: (Array, ArrayList, LinkedList, Stack, Queue, Priority Queues), <br>Non-Linear: (Trees: {Binary Heap, 2-3 Trees, Red-Black Trees, B-Trees}, Multi-Dimensional Trees: {Space-Partitioning Trees, Interval Search Tree, Sweep Line Algorithm}), <br>Hash-Tables: (Seperate Chaining: {Two-probe hashing}, Linear Probing: {Double Hashing, Cuckoo Hashing})]|[My Solution](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS)|
+|[Princeton Algorithms Course Part 1](https://www.coursera.org/learn/algorithms-part1) & [Princeton Algorithms Course Part 2](https://www.coursera.org/learn/algorithms-part2)|`sorting and searching`: [Elementary sort: (Shell sort, Insertion sort, Selection sort), Mergesort, Quicksort, Binary Search, Quick-Select, 3-Way partitioning, Heapsort, A\* Search, Multi-Dimensional Search: (KdTree), Hash-Table, Graph-Searching: (Depth-First Search, Breadth-First Search, Topological sort, Kosaraju-Sharir DFS Twice, Cycle Detection)] <br>`randomized algorithms`: [Shuffle sort] <br>`data structures`: [Linear: (Array, ArrayList, LinkedList, Stack, Queue, Priority Queues), <br>Non-Linear: (Trees: {Binary Heap, 2-3 Trees, Red-Black Trees, B-Trees}, Multi-Dimensional Trees: {Space-Partitioning Trees, Interval Search Tree, Sweep Line Algorithm}), <br>Hash-Tables: (Seperate Chaining: {Two-probe hashing}, Linear Probing: {Double Hashing, Cuckoo Hashing}), Sets, Graphs: (Directed Graphs, Undirected Graphs)]|[My Solution](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS)|
 
 # Side-Projects
 
