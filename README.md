@@ -92,7 +92,7 @@ This repository organizes all taken courses along with my solutions to assignmen
 
 
 #### Courseless
-* Topics I learned from a uninteractive course.
+* Topics I learned from non-interactive course (Videos, Medium Posts...).
 
 |Subject|Topic|
 |:-:|:-|
