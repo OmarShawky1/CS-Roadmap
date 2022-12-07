@@ -21,7 +21,9 @@ This repository organizes all taken courses along with my solutions to assignmen
     - [Core Programming](#core-programming)
     - [Core Theory](#core-theory)
       - [Courseless](#courseless)
-- [Side-Projects](#side-projects)
+- [Projects](#projects)
+  - [Side-Projects](#side-projects)
+  - [Elected-Projects](#elected-projects)
 
 ## CS Essential Prerequisite Tools & Knowledge
 
@@ -76,6 +78,7 @@ This repository organizes all taken courses along with my solutions to assignmen
 | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages), [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) & [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) |`programming concepts`: (Mutation, references/pointers, Basic collections {pairs, tuples, Records), Polymorphism (Functional, OOP, Bounded), Type Inference,  Weak Typing, Strong Typing, Duck Typing, Overriding, Dynamic Dispatch, Double Dispatch, Interpreter) <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, shadowing, case expression (AKA pattern matching), High order function (function consumer or passing function as argument), Map, Filter, Fold, Lexical & Dynamic scope, Stream, Lazy & Eager evaluation, Memoization, Tokenization, Subtyping (Functional & OOP), Generics) <br>`static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Object Oriented Programming` <br>`Ruby`: (classes, object state, Arrays, Blocks, Hashes & Ranges, Subclassing (Inheritance in Java), Mixins) | [My Solution](https://github.com/OmarShawky1/Course-Programming-Languages) |
 
 ### Core Theory
+* "\*" means topic is repeated because it relates to multiple categories.
 
 **Topics covered**:
 `sorting and searching`
@@ -86,25 +89,40 @@ This repository organizes all taken courses along with my solutions to assignmen
 `greedy algorithms`
 `minimum spanning trees`
 `dynamic programming`
-<br>TODO: Add all topics studied (From Princeton) to the section.
-`divide and conquer`
-`NP-completeness`
-`and more`
+`string algorithms`
+<br>TODO: Add below topics after studying.`NP-completeness`
+`Data Compression`
+
 
 | Course | Topics Covered | Course Portfolio |
 |:-:|:-|:-:|
-| [Princeton Algorithms Course Part 1](https://www.coursera.org/learn/algorithms-part1) & [Princeton Algorithms Course Part 2](https://www.coursera.org/learn/algorithms-part2) |`sorting and searching`: <br>* Elementary sort: (Shell sort, Insertion sort, Selection sort) <br>* Mergesort <br>* Quicksort <br>* Binary Search <br>* Quick-Select <br>* 3-Way partitioning <br>* Heapsort <br>* A\* Search <br>* Multi-Dimensional Search: (KdTree) <br>* Hash-Table <br>* Graph-Searching: (Depth-First Search, Breadth-First Search, Topological sort, Kosaraju-Sharir DFS Twice, Cycle Detection) <br>* Maxflow-Mincut-problem: (Ford-Fulkerson Algorithm) <br>* Strings: (Key-Indexed sort, LSD Radix Sort, MSD Radix Sort, 3-way Radix Quicksort, Manber-Myers MSD Sort, Suffix Sort) <br> `shortest paths`: <br>* Greedy Algorithms: (Kruskal's Algorithm, Prim's Algorithm, Dijkstra's Algorithm), Acyclic SP: (Seam-Carving) <br>* Dynamic programming Algorithm: (Bellman-Ford's Algorithm) <br>`randomized algorithms`: Shuffle sort <br>`data structures`: <br>* Linear: (Array, ArrayList, LinkedList, Stack, Queue, Priority Queues) <br>* Non-Linear: (Trees: {Binary Heap, 2-3 Trees, Red-Black Trees, B-Trees}, Multi-Dimensional Trees: {Space-Partitioning Trees, Interval Search Tree, Sweep Line Algorithm}) <br>* Hash-Tables: (Seperate Chaining: {Two-probe hashing}, Linear Probing: {Double Hashing, Cuckoo Hashing}) <br>* Sets <br>* Graphs: (Directed Graphs, Undirected Graphs, Edge Weighted Graphs, Acyclic Graphs, Edge Weighted Directed Acyclic Graphs) <br>* Minimum Spanning Trees <br>* Flow-Network or Residual Network | [My Solution](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS) |
+| [Princeton Algorithms Course Part 1](https://www.coursera.org/learn/algorithms-part1) & [Princeton Algorithms Course Part 2](https://www.coursera.org/learn/algorithms-part2) |`sorting and searching`: <br>* Elementary sort: (Shell sort, Insertion sort, Selection sort) <br>* Mergesort <br>* Quicksort <br>* Binary Search <br>* Quick-Select <br>* 3-Way partitioning <br>* Heapsort <br>* A\* Search <br>* Multi-Dimensional Search: (KdTree) <br>* Hash-Table <br>* Graph-Searching: (Depth-First Search, Breadth-First Search, Topological sort, Kosaraju-Sharir DFS Twice, Cycle Detection) <br>* Maxflow-Mincut-problem: (Ford-Fulkerson Algorithm) <br>* Strings: (Key-Indexed sort, LSD Radix Sort, MSD Radix Sort, 3-way Radix Quicksort, Manber-Myers MSD Sort, Suffix Sort) <br>* Substring Searching: (Knuth-Morris-Pratt Substring Searching Algorithm, ) <br> `shortest paths`: <br>* Greedy Algorithms: (Kruskal's Algorithm, Prim's Algorithm, Dijkstra's Algorithm), Acyclic SP: (Seam-Carving) <br>* Dynamic programming Algorithm: (Bellman-Ford's Algorithm, Dijkstra's Algorithm\*) <br>`randomized algorithms`: Shuffle sort <br>`string algorithms`: <br>* character-based operation: (Prefix match, wildcard match, longest prefix)<br>`data structures`: <br>* Linear: (Array, ArrayList, LinkedList, Stack, Queue, Priority Queues) <br>* Non-Linear: (Trees: {Binary Heap, 2-3 Trees, Red-Black Trees, B-Trees}, Multi-Dimensional Trees: {Space-Partitioning Trees, Interval Search Tree, Sweep Line Algorithm}) <br>* Hash-Tables: (Seperate Chaining: {Two-probe hashing}, Linear Probing: {Double Hashing, Cuckoo Hashing}) <br>* Sets <br>* Graphs: (Directed Graphs, Undirected Graphs, Edge Weighted Graphs, Acyclic Graphs, Edge Weighted Directed Acyclic Graphs) <br>* Minimum Spanning Trees <br>* Flow-Network or Residual Network <br>* Tries: {R-way Tries, Ternary Search Tries, TST & R<sup>2</sup> Hybrid Tries}| [My Solution](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS) |
 
 
 #### Courseless
 * Topics I learned from non-interactive course (Videos, Medium Posts...).
+TODO: Add these topics after studying it: `divide and conquer`
+`bubble sort`
 
 |Subject|Topic|
 |:-:|:-|
 | `Data Structure` | Trees: AVL Trees |
 
-# Side-Projects
+# Projects
+## Side-Projects
 
 |Project|Topics Covered|
 |:-:|:-:|
-| [GUI Multiplayer Chess Over Local Connection](https://github.com/OmarShawky1/Chess) |`Java 8` `OOP` `JavaFx` `Threading` |
+| [GUI Multiplayer Chess Over Local Connection](https://github.com/OmarShawky1/Chess) |`Java 8` `OOP` `JavaFx` `Threading` `Networking` and even more|
+
+
+## Elected-Projects
+* Projects that are done in the aforementioned studied courses and desereve exeplicite mentioning.
+
+|Project|Topics Covered|
+|:-:|:-:|
+| [Made Up Programming Language](https://github.com/OmarShawky1/Course-Programming-Languages#week-7-hw5) | `interpreter` (mini interpreter (not via using symbol tables) to illustrate how they work conceptually)
+| [Kd-Trees](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#kdtrees) | `red black BST`, `kd-trees BST`, `shortest paths`  |
+| [WordNet](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#wordnet) | `undirected graphs`, `graph searching`, `shortest paths`, `BFS`, `DFS` |
+| [Seam-Carving](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#seam-carving) | `directed graphs`, `image processsing`, `shortest paths` |
+| [Baseball Elimination](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#baseball-elimination) | `directed graphs`, `maxflow-mincut`, `augmenting paths` |
