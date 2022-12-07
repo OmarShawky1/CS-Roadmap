@@ -65,12 +65,14 @@ This repository organizes all taken courses along with my solutions to assignmen
 `Lisp-family languages (via Racket)`
 `Object Oriented Programming`
 `Ruby`
-<br>TODO: Add all topics studied to the section.
+<!---
+TODO: Add all topics studied to the section.
 `design for testing`
 `program requirements`
 `common design patterns`
 `unit testing`
 `object-oriented design`
+-->
 
 | Course | Topics Covered | Course Portfolio |
 |:-:|:-|:-:|
@@ -90,8 +92,9 @@ This repository organizes all taken courses along with my solutions to assignmen
 `minimum spanning trees`
 `dynamic programming`
 `string algorithms`
-<br>TODO: Add below topics after studying.`NP-completeness`
-`Data Compression`
+<!---
+TODO: Add below topics after studying.`NP-completeness` `Data Compression`
+-->
 
 
 | Course | Topics Covered | Course Portfolio |
@@ -101,8 +104,11 @@ This repository organizes all taken courses along with my solutions to assignmen
 
 #### Courseless
 * Topics I learned from non-interactive course (Videos, Medium Posts...).
-TODO: Add these topics after studying it: `divide and conquer`
-`bubble sort`
+<!---
+TODO: 
+1. Add problem solving questions that are related to the below topics.
+2. Add these topics after studying it: `divide and conquer` `bubble sort`
+-->
 
 |Subject|Topic|
 |:-:|:-|
@@ -121,8 +127,8 @@ TODO: Add these topics after studying it: `divide and conquer`
 
 |Project|Topics Covered|
 |:-:|:-:|
-| [Made Up Programming Language](https://github.com/OmarShawky1/Course-Programming-Languages#week-7-hw5) | `interpreter` (mini interpreter (not via using symbol tables) to illustrate how they work conceptually)
-| [Kd-Trees](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#kdtrees) | `red black BST`, `kd-trees BST`, `shortest paths`  |
-| [WordNet](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#wordnet) | `undirected graphs`, `graph searching`, `shortest paths`, `BFS`, `DFS` |
-| [Seam-Carving](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#seam-carving) | `directed graphs`, `image processsing`, `shortest paths` |
 | [Baseball Elimination](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#baseball-elimination) | `directed graphs`, `maxflow-mincut`, `augmenting paths` |
+| [Seam-Carving](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#seam-carving) | `directed graphs`, `image processsing`, `shortest paths` |
+| [WordNet](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#wordnet) | `undirected graphs`, `graph searching`, `shortest paths`, `BFS`, `DFS` |
+| [Kd-Trees](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#kdtrees) | `red black BST`, `kd-trees BST`, `shortest paths`  |
+| [Made Up Programming Language](https://github.com/OmarShawky1/Course-Programming-Languages#week-7-hw5) | `interpreter` (mini interpreter (not via using symbol tables) to illustrate how they work conceptually) |
