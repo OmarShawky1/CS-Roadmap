@@ -65,6 +65,8 @@ This repository organizes all taken courses along with my solutions to assignmen
 `Lisp-family languages (via Racket)`
 `Object Oriented Programming`
 `Ruby`
+`java`
+`basic data structures`
 <!---
 TODO: Add all topics studied to the section.
 `design for testing`
@@ -76,6 +78,7 @@ TODO: Add all topics studied to the section.
 
 | Course | Topics Covered | Course Portfolio |
 |:-:|:-|:-:|
+| [Java YT Tutorials by Derek Banas](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19) | `programming concepts`: (User input, conditional statement, for-loop, while-loop, do-while-loop, methods & fields, exception handling, java object),<br>`OOP`: (java class, OOP Polymorphism: {upcasting, downcasting}, access modifiers, Inheritance: {Abstract class, Interface, method-overriding, method-overloading}, static, final modifiers) <br>`Threading`, `lexical scoping`, `string search`, <br>`basic data structures`: (Arrays, LinkedLists, ArrayLists, String Builder)) | [GUI Multiplayer Chess Over Local Connection](https://github.com/OmarShawky1/Chess) (Check [Side-Projects](#side-projects) for topics covered by this project) |
 | [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)|`basic function structure`: (function signature, first order function) <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, High order function (function consumer or passing function as argument), Map, Filter, Fold, Lexical Scoping, Backtracking search, Generative Recursion)  <br>`dynamic typing` | [My Solution](https://github.com/OmarShawky1/Course-How-To-Code-Data) |
 | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages), [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) & [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) |`programming concepts`: (Mutation, references/pointers, Basic collections {pairs, tuples, Records), Polymorphism (Functional, OOP, Bounded), Type Inference,  Weak Typing, Strong Typing, Duck Typing, Overriding, Dynamic Dispatch, Double Dispatch, Interpreter) <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, shadowing, case expression (AKA pattern matching), High order function (function consumer or passing function as argument), Map, Filter, Fold, Lexical & Dynamic scope, Stream, Lazy & Eager evaluation, Memoization, Tokenization, Subtyping (Functional & OOP), Generics) <br>`static typing` `dynamic typing` `ML-family languages (via Standard ML)` `Lisp-family languages (via Racket)` `Object Oriented Programming` <br>`Ruby`: (classes, object state, Arrays, Blocks, Hashes & Ranges, Subclassing (Inheritance in Java), Mixins) | [My Solution](https://github.com/OmarShawky1/Course-Programming-Languages) |
 
