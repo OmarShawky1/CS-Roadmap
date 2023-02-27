@@ -6,7 +6,9 @@
 
 # Summary
 
-This repository organizes all taken courses along with my solutions to assignments & any side project that I have done. It's all thanks to [OSSU](https://github.com/ossu/computer-science)s' incredible help, curriculum & courses order.
+* This repository organizes all taken courses along with my solutions to assignments & any side project that I have done.
+* If you need Real-Time Help in these courses, Join [AC Discord](https://discord.gg/QrfTN2Aukx) or OSSU's Server.
+* It's all thanks to [OSSU](https://github.com/ossu/computer-science)s' incredible help, curriculum & courses order.
 
 # Curriculum
 
