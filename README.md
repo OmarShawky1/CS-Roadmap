@@ -11,23 +11,16 @@
 * It's all thanks to [OSSU](https://github.com/ossu/computer-science)s' incredible help, curriculum & courses order.
 
 # Curriculum
-
-- [Contents](#contents)
-- [Summary](#summary)
-- [Curriculum](#curriculum)
-  - [CS Essential Prerequisite Tools \& Knowledge](#cs-essential-prerequisite-tools--knowledge)
-  - [Intro CS](#intro-cs)
-    - [Introduction to Programming](#introduction-to-programming)
-    - [Introduction to Computer Science](#introduction-to-computer-science)
-  - [Core CS](#core-cs)
-    - [Core Programming](#core-programming)
-    - [Core Theory](#core-theory)
-      - [Algorithms-\&-Data-Structures](#algorithms--data-structures)
-      - [Courseless](#courseless)
-      - [Problem-Solving](#problem-solving)
-- [Projects](#projects)
-  - [Side-Projects](#side-projects)
-  - [Elected-Projects](#elected-projects)
+- [CS Essential Prerequisite Tools \& Knowledge](#cs-essential-prerequisite-tools--knowledge)
+- [Intro CS](#intro-cs)
+  - [Introduction to Programming](#introduction-to-programming)
+  - [Introduction to Computer Science](#introduction-to-computer-science)
+- [Core CS](#core-cs)
+  - [Core Programming](#core-programming)
+  - [Core Theory](#core-theory)
+    - [Algorithms-\&-Data-Structures](#algorithms--data-structures)
+    - [Courseless](#courseless)
+    - [Problem-Solving](#problem-solving)
 
 ## CS Essential Prerequisite Tools & Knowledge
 
@@ -153,6 +146,9 @@ TODO:
 
 
 # Projects
+- [Side-Projects](#side-projects)
+- [Elected-Projects](#elected-projects)
+
 ## Side-Projects
 
 |Project|Topics Covered|
