@@ -2,7 +2,7 @@
 
 - [Summary](#summary)
 - [Curriculum](#curriculum)
-- [Side Projects](#Side-Projects)
+- [Projects](#projects)
 
 # Summary
 
