@@ -153,7 +153,7 @@ TODO:
 
 |Project|Topics Covered|
 |:-:|:-:|
-| [GUI Multiplayer Chess Over Local Connection](https://github.com/OmarShawky1/Chess) |`Java 8` `OOP` `JavaFx` `Threading` `Networking` and even more|
+| [GUI Multiplayer Chess Over Local Connection](https://github.com/OmarShawky1/Chess) |`Java 8` `OOP` `JavaFx` `threads` `networking` and even more|
 
 
 ## Elected-Projects
@@ -161,7 +161,7 @@ TODO:
 
 |Project|Topics Covered|
 |:-:|:-:|
-| [Burrows-Wheeler](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#burrows-wheeler) | `Suffix Array`, `Burrows-Wheeler`, `data compression`, `key-indexed sorting` |
+| [Burrows-Wheeler](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#burrows-wheeler) | `suffix array`, `burrows-wheeler`, `data compression`, `key-indexed sorting` |
 | [Baseball Elimination](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#baseball-elimination) | `directed graphs`, `maxflow-mincut`, `augmenting paths` |
 | [Seam-Carving](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#seam-carving) | `directed graphs`, `image processsing`, `shortest paths` |
 | [Boogle](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#boggle) | `character-based operation`, `tries`, `ternary tries`, `R-way tries` |
