@@ -162,7 +162,7 @@ TODO:
 |Project|Topics Covered|
 |:-:|:-:|
 | [Burrows-Wheeler](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#burrows-wheeler) | `suffix array`, `burrows-wheeler`, `data compression`, `key-indexed sorting` |
-| [Baseball Elimination](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#baseball-elimination) | `directed graphs`, `maxflow-mincut`, `augmenting paths` |
+| [Baseball Elimination](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#baseball-elimination) | `directed graphs`, `mincut-maxflow`, `augmenting paths` |
 | [Seam-Carving](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#seam-carving) | `directed graphs`, `image processsing`, `shortest paths` |
 | [Boogle](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#boggle) | `character-based operation`, `tries`, `ternary tries`, `R-way tries` |
 | [WordNet](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#wordnet) | `undirected graphs`, `graph searching`, `shortest paths`, `BFS`, `DFS` |
