@@ -169,4 +169,6 @@ TODO:
 | [Boogle](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#boggle) | `character-based operation`, `tries`, `ternary tries`, `R-way tries` |
 | [WordNet](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#wordnet) | `undirected graphs`, `graph searching`, `shortest paths`, `BFS`, `DFS` |
 | [kD-Trees](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#kdtrees) | `red-black BST`, `kD BST`, `shortest paths`  |
+| [8Puzzle](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#8-puzzle) | `Minimum Priority Queue`, `A* Search Algorithm` |
+| [Collinear Points](https://github.com/OmarShawky1/Course-Princeton-Algorithms-DS#collinear) | `mergesort` |
 | [Made Up Programming Language](https://github.com/OmarShawky1/Course-Programming-Languages#week-7-hw5) | `interpreter` (Mini Interpreter (not via using Symbol Tables) to illustrate how they work conceptually) |
